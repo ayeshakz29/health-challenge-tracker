@@ -1,0 +1,11 @@
+<input [(ngModel)]="searchText" placeholder="Search by name" class="p-2 border rounded">
+   <select [(ngModel)]="filterType" class="p-2 border rounded">
+     <option value="">All</option>
+     <option value="Cardio">Cardio</option>
+     <option value="Strength">Strength</option>
+   </select>
+   <ul>
+     <li *ngFor="let workout of workouts | filter: searchText | filterByType: filterType">
+       {{ workout.name }} - {{ workout.type }} - {{ workout.minutes }} mins
+     </li>
+   </ul>
