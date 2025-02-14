@@ -1,6 +1,6 @@
 # Fyle Frontend Challenge
 
-## Live here - https://health-challenge-tracker-fyle-three.vercel.app/
+## Live here - https://fyle-frontend-health-challenge-tracker.vercel.app/
 
 
 [View Code Coverage Report](C:/health-challenge-tracker/coverage/index.html)
