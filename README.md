@@ -3,7 +3,7 @@
 ## Live here - https://fyle-frontend-health-challenge-tracker.vercel.app/
 
 
-[View Code Coverage Report](C:/health-challenge-tracker/coverage/index.html)
+[View Code Coverage Report](./coverage/index.html)
 
 <h3>Code Coverage Report Snip</h3>
 <img src="./media/health_code_coverage.png" width="600" />
