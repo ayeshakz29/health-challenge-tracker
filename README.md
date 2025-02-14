@@ -3,10 +3,10 @@
 ## Live here - https://health-challenge-tracker-fyle-three.vercel.app/
 
 
-[View Code Coverage Report](./coverage/index.html)
+[View Code Coverage Report](C:/health-challenge-tracker/coverage/index.html)
 
 <h3>Code Coverage Report Snip</h3>
-<img src="./media/fyle_code_coverage.png" width="600" />
+<img src="./media/health_code_coverage.png" width="600" />
 
 ## Key Features
 - Add user name and select workout type
@@ -34,7 +34,7 @@ This project is a workout system built using Angular and styled with Tailwind CS
 
 1. **Clone the repository:**
    ```bash
-   Install node version > 18
+   Install node version > 22
    git clone https://github.com/ayeshakz29/health-challenge-tracker.git
    cd health-challenge-tracker
    Run npm install
